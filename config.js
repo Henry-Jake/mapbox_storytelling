@@ -1,7 +1,7 @@
 var config = {
-    style: 'mapbox://styles/burgerjh/cm98v4e0y001c01qn7swuc8m0',
+    style: 'mapbox://styles/jachen0825/cm98uxsxc002d01sagvmx8cea',
     // leave commented to use Mapbox Standard Style
-    accessToken: 'pk.eyJ1IjoiYnVyZ2VyamgiLCJhIjoiY20yc3IyZXozMDBqdTJ2b3BpY3M3aWNqcCJ9.BRJ_B6H5_MYZ7Q_PBxcaQg',
+    accessToken: 'pk.eyJ1IjoiamFjaGVuMDgyNSIsImEiOiJjbTk3a3dwMDkwNmV2MmtvZmdnaDZhcnJ6In0.3BSEKXYmm72yhz1QmtKrXg',
     showMarkers: false,
     markerColor: '#3FB1CE',
     //projection: 'equirectangular',
@@ -15,9 +15,9 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Color Purple Essay',
+    title: 'ENG355_Final_Essay',
     subtitle: 'Spatial Journeys across the South',
-    byline: 'My Name',
+    byline: 'Jacob Henry',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
