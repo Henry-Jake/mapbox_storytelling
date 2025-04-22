@@ -24,9 +24,9 @@ var config = {
             id: 'opening',
             alignment: 'centered',
             hidden: false,
-            title: 'The Color Purple',
+            title: 'Not The Color Purple',
             image: './assets/color_purple_cover.jpg',
-            description: 'This is where I insert a description of the novel',
+            description: 'Two sisters write eachother for fourty years',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
