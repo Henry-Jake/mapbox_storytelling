@@ -113,5 +113,34 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         }
-    ]
+        {
+            id: 'opening',
+            alignment: 'centered',
+            hidden: false,
+            title: 'Not The Color Purple',
+            image: './assets/harrisonburgmap.png',
+            description: 'Two sisters write eachother for fourty years or something',
+            location: {
+                center: [-90.3150946, 38.6605671],
+                zoom: 4,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },]
 };
