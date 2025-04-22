@@ -112,7 +112,7 @@ var config = {
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
-        }
+        },
         {
             id: 'opening',
             alignment: 'centered',
