@@ -25,7 +25,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: 'Not The Color Purple',
-            image: './assets/color_purple_cover.jpg',
+            image: './assets/harrisonburgmap.png',
             description: 'Two sisters write eachother for fourty years or something',
             location: {
                 center: [-90.3150946, 38.6605671],
