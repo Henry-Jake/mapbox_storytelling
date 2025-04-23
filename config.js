@@ -114,14 +114,14 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'opening',
+            id: 'Chapter-Harrisonburg',
             alignment: 'centered',
             hidden: false,
-            title: 'Not The Color Purple',
+            title: 'Harrisonburg Be Doing',
             image: './assets/harrisonburgmap.png',
-            description: 'Two sisters write eachother for fourty years or something',
+            description: 'A basic map of the City of Harrisonburg',
             location: {
-                center: [-90.3150946, 38.6605671],
+                center: [-78.8727234890205,38.438444501085634 ], 
                 zoom: 4,
                 pitch: 60,
                 bearing: 0
