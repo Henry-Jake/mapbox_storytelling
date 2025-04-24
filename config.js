@@ -115,7 +115,7 @@ var config = {
         },
         {
             id: 'Chapter-Harrisonburg',
-            alignment: 'centered',
+            alignment: 'right',
             hidden: false,
             title: 'Harrisonburg Be Doing',
             image: './assets/harrisonburgmap.png',
