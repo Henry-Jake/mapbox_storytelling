@@ -115,7 +115,7 @@ var config = {
         },
         {
             id: 'Chapter-Harrisonburg',
-            alignment: 'Left',
+            alignment: 'left',
             hidden: false,
             title: 'Harrisonburg Be Doing - four',
             image: './assets/harrisonburgmap.png',
@@ -145,7 +145,7 @@ var config = {
         },
         {
             id: 'chapter-five',
-            alignment: 'Right',
+            alignment: 'right',
             hidden: false,
             title: 'Five',
             image: './assets/firestone_farm.jpg',
@@ -164,7 +164,7 @@ var config = {
         },
         {
             id: 'chapter-six',
-            alignment: 'Left',
+            alignment: 'left',
             hidden: false,
             title: 'Six',
             image: './assets/firestone_farm.jpg',
@@ -183,7 +183,7 @@ var config = {
         },
         {
             id: 'chapter-seven',
-            alignment: 'Right',
+            alignment: 'right',
             hidden: false,
             title: 'seven',
             image: './assets/firestone_farm.jpg',
@@ -202,7 +202,7 @@ var config = {
         },
         {
             id: 'chapter-eight',
-            alignment: 'Left',
+            alignment: 'left',
             hidden: false,
             title: 'Eight',
             image: './assets/firestone_farm.jpg',
@@ -221,7 +221,7 @@ var config = {
         },
         {
             id: 'chapter-nine',
-            alignment: 'Right',
+            alignment: 'right',
             hidden: false,
             title: 'Nine',
             image: './assets/firestone_farm.jpg',
@@ -240,7 +240,7 @@ var config = {
         },
         {
             id: 'chapter-Ten',
-            alignment: 'Left',
+            alignment: 'left',
             hidden: false,
             title: 'Ten',
             image: './assets/firestone_farm.jpg',
@@ -259,7 +259,7 @@ var config = {
         },
         {
             id: 'Conclusion',
-            alignment: 'Right',
+            alignment: 'center',
             hidden: false,
             title: 'Conclusion',
             image: './assets/color_purple_field.jpg',
