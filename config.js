@@ -218,5 +218,63 @@ var config = {
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
-        },]
+        },
+        {
+            id: 'chapter-nine',
+            alignment: 'Right',
+            hidden: false,
+            title: 'Nine',
+            image: './assets/firestone_farm.jpg',
+            description: 'Description of the Olinka people',
+            location: {
+                center: [-10.378889436404226, 6.251275915595865], 
+                zoom: 8.00,
+                pitch: 45.0,
+                bearing: 0.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'chapter-Ten',
+            alignment: 'Left',
+            hidden: false,
+            title: 'Ten',
+            image: './assets/firestone_farm.jpg',
+            description: 'Description of the Olinka people',
+            location: {
+                center: [-10.378889436404226, 6.251275915595865], 
+                zoom: 8.00,
+                pitch: 45.0,
+                bearing: 0.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'Conclusion',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Conclusion',
+            image: './assets/color_purple_field.jpg',
+            description: 'Close of the novel.',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+    ]
 };
