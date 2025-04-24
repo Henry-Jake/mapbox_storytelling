@@ -164,7 +164,7 @@ var config = {
         },
         {
             id: 'chapter-six',
-            alignment: 'left',
+            alignment: 'Right',
             hidden: false,
             title: 'Olinka',
             image: './assets/firestone_farm.jpg',
