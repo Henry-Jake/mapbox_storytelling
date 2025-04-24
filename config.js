@@ -24,9 +24,9 @@ var config = {
             id: 'opening',
             alignment: 'centered',
             hidden: false,
-            title: 'Not The Color Purple',
+            title: 'A Tour of The South',
             image: './assets/harrisonburgmap.png',
-            description: 'Two sisters write eachother for fourty years or something',
+            description: 'How (xxx) was protrayed in Southern Literature',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
@@ -54,7 +54,7 @@ var config = {
             id: 'chapter-one',
             alignment: 'right',
             hidden: false,
-            title: 'Someplace Georgia',
+            title: 'Someplace Georgia - One',
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'Description of the second location.',
             location: {
@@ -79,7 +79,7 @@ var config = {
             id: 'chapter-two',
             alignment: 'left',
             hidden: false,
-            title: 'Olinka',
+            title: 'Two',
             image: './assets/firestone_farm.jpg',
             description: 'Description of the Olinka people',
             location: {
@@ -98,7 +98,7 @@ var config = {
             id: 'chapter-three',
             alignment: 'fully',
             hidden: false,
-            title: 'End',
+            title: 'Three',
             image: './assets/color_purple_field.jpg',
             description: 'Close of the novel.',
             location: {
@@ -115,9 +115,9 @@ var config = {
         },
         {
             id: 'Chapter-Harrisonburg',
-            alignment: 'right',
+            alignment: 'Left',
             hidden: false,
-            title: 'Harrisonburg Be Doing',
+            title: 'Harrisonburg Be Doing - four',
             image: './assets/harrisonburgmap.png',
             description: 'A basic map of the City of Harrisonburg',
             location: {
@@ -145,9 +145,9 @@ var config = {
         },
         {
             id: 'chapter-five',
-            alignment: 'left',
+            alignment: 'Right',
             hidden: false,
-            title: 'Olinka',
+            title: 'Five',
             image: './assets/firestone_farm.jpg',
             description: 'Description of the Olinka people',
             location: {
@@ -164,9 +164,9 @@ var config = {
         },
         {
             id: 'chapter-six',
-            alignment: 'Right',
+            alignment: 'Left',
             hidden: false,
-            title: 'Olinka',
+            title: 'Six',
             image: './assets/firestone_farm.jpg',
             description: 'Description of the Olinka people',
             location: {
@@ -183,9 +183,28 @@ var config = {
         },
         {
             id: 'chapter-seven',
-            alignment: 'left',
+            alignment: 'Right',
             hidden: false,
-            title: 'Olinka',
+            title: 'seven',
+            image: './assets/firestone_farm.jpg',
+            description: 'Description of the Olinka people',
+            location: {
+                center: [-10.378889436404226, 6.251275915595865], 
+                zoom: 8.00,
+                pitch: 45.0,
+                bearing: 0.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'chapter-eight',
+            alignment: 'Left',
+            hidden: false,
+            title: 'Eight',
             image: './assets/firestone_farm.jpg',
             description: 'Description of the Olinka people',
             location: {
