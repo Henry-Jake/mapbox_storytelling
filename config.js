@@ -122,7 +122,7 @@ var config = {
             description: 'A basic map of the City of Harrisonburg',
             location: {
                 center: [-78.8727234890205,38.438444501085634 ], 
-                zoom: 6.5,
+                zoom: 7,
                 pitch: 60,
                 bearing: 0
             },
