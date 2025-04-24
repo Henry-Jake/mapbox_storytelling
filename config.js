@@ -122,7 +122,7 @@ var config = {
             description: 'A basic map of the City of Harrisonburg',
             location: {
                 center: [-78.8727234890205,38.438444501085634 ], 
-                zoom: 4,
+                zoom: 6.5,
                 pitch: 60,
                 bearing: 0
             },
@@ -142,5 +142,62 @@ var config = {
                 //     opacity: 0
                 // }
             ]
+        },
+        {
+            id: 'chapter-five',
+            alignment: 'left',
+            hidden: false,
+            title: 'Olinka',
+            image: './assets/firestone_farm.jpg',
+            description: 'Description of the Olinka people',
+            location: {
+                center: [-10.378889436404226, 6.251275915595865], 
+                zoom: 8.00,
+                pitch: 45.0,
+                bearing: 0.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'chapter-six',
+            alignment: 'left',
+            hidden: false,
+            title: 'Olinka',
+            image: './assets/firestone_farm.jpg',
+            description: 'Description of the Olinka people',
+            location: {
+                center: [-10.378889436404226, 6.251275915595865], 
+                zoom: 8.00,
+                pitch: 45.0,
+                bearing: 0.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'chapter-seven',
+            alignment: 'left',
+            hidden: false,
+            title: 'Olinka',
+            image: './assets/firestone_farm.jpg',
+            description: 'Description of the Olinka people',
+            location: {
+                center: [-10.378889436404226, 6.251275915595865], 
+                zoom: 8.00,
+                pitch: 45.0,
+                bearing: 0.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
         },]
 };
