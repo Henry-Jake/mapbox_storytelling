@@ -259,7 +259,7 @@ var config = {
         },
         {
             id: 'Conclusion',
-            alignment: 'fully',
+            alignment: 'Right',
             hidden: false,
             title: 'Conclusion',
             image: './assets/color_purple_field.jpg',
