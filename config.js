@@ -25,7 +25,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: 'A Tour of The South',
-            image: './assets/harrisonburgmap.png',
+            image: './assets/Economic_mobility.png',
             description: 'How economic status superseded race in terms of mobility in southern literature',
             location: {
                 center: [-90.3150946, 38.6605671],
