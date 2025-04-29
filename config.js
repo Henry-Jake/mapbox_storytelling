@@ -220,44 +220,6 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-nine',
-            alignment: 'right',
-            hidden: false,
-            title: 'Nine',
-            image: './assets/firestone_farm.jpg',
-            description: 'Description of the Olinka people',
-            location: {
-                center: [-10.378889436404226, 6.251275915595865], 
-                zoom: 8.00,
-                pitch: 45.0,
-                bearing: 0.00
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
-            id: 'chapter-Ten',
-            alignment: 'left',
-            hidden: false,
-            title: 'Ten',
-            image: './assets/firestone_farm.jpg',
-            description: 'Description of the Olinka people',
-            location: {
-                center: [-10.378889436404226, 6.251275915595865], 
-                zoom: 8.00,
-                pitch: 45.0,
-                bearing: 0.00
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
             id: 'Conclusion',
             alignment: 'center',
             hidden: false,
