@@ -56,7 +56,7 @@ var config = {
             hidden: false,
             title: 'Someplace Georgia - One',
             image: './assets/alice_walker_childhood_home.jpg',
-            description: 'Description of the second location.',
+            description: 'As I Lay Dying',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
