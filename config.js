@@ -26,7 +26,7 @@ var config = {
             hidden: false,
             title: 'A Tour of The South',
             image: './assets/harrisonburgmap.png',
-            description: 'How (xxx) was protrayed in Southern Literature',
+            description: 'How economic status superseded race in terms of mobility in southern literature',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
