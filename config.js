@@ -16,7 +16,7 @@ var config = {
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
     title: 'ENG355_Final_Essay',
-    subtitle: 'Spatial Journeys across the South',
+    subtitle: 'Spatial Journeys of Movement Across the South in Southern Literature',
     byline: 'Jacob Henry',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
