@@ -111,7 +111,7 @@ var config = {
             description: 'Overall, for the Bundren family in lieu of being white, they are also poor, which significantly decreases their access to resources and mobility – more than race, poverty proves to be the obstacle that presents itself in every decision and every hardship they face. They delayed medical care for Addie until it was certain death, the forty-mile journey takes nine days because the family must go by wagon and mule (not car) when the bridge collapses due to flooding they feel the pressure of time and see no other option than to risk crossing the river and end up losing their mules (having to trade Jewel Horse for a new set),  Cash goes a week with a broken leg (only seeing a doctor once they get to Jefferson), Dewey Dell is unable to afford/is conned out of getting medicine for her pregnancy, the family does not have consistent housing through (mostly staying where people offer for free), and they send Darl away to a mental hospital (in lieu of caring for him – to keep the peace & avoid being sued).',
             location: {
                 center: [-89.4921200006997, 34.281557946257514], 
-                zoom: 15.00,
+                zoom: 14.00,
                 pitch: 45.0,
                 bearing: 0.00
             },
@@ -148,7 +148,7 @@ var config = {
             image: '',
             description: 'From the very beginning of the Novel Celie is trapped in her loveless marriage to her husband (Albert “Mister”), in childhood she lacks the foundational schooling to fully comprehend the inequality of the situation – as she got pregnant by her stepfather (Alphonso) and pulled out of school to be married to Albert. The pair as well as Mister\’s son, Harpo live on a former plantation owned by Mister\’s father as farmers. Mister and Harpo primarily get around using horse and wagon. Celie does not possess the financial means or literacy to escape such conditions and thus writes to God to vent and escape her life. The arrival of Shug Avery, a wealthy singer from Memphis changes all this when she comes to town and begins to teach Celie about herself, love, and independence. Because of Shug\’s profession and economic status, she can travel the country in a car with relative ease. In meeting Shug, Celie begins to learn self-autonomy and gains the knowledge and courage to leave her marriage to go with Shug to Memphis. However, before leaving a notable altercation of perception occurs between Albert and Celie, Alber calls her “You black, you pore, you a woman. Goddam, he say, you nothing at all” while Celie snaps back “I\’m pore, I\’m black, I may be ugly and can\’t cook… but I\’m here” (pg206). Through this altercation, we see how Albert sees Celie firstly for her race – while Celie sees herself firstly for her economic status. Through the eyes of Albert, the main primary factor holding Celie back is her race – while Celie views the driving factor of her immobility and stagnating life as her economic status. With the help of Shug, Celie starts a pant sewing business – where she finds success and can move between Memphis and her hometown with relative ease and frequency. Toward the end of the novel, Celie inherits Alphonso’s house after his passing and moves back home having found herself through economic advancement and self-discovery. ',
             location: {
-                center: [-86.83194459169147, 33.50667266814902 ], 
+                center: [-86.81546509971066, 33.51225475117825], 
                 zoom: 6.5,
                 pitch: 60,
                 bearing: 0
