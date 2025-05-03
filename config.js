@@ -88,7 +88,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'How economic status affected mobility ',
-            image: './asset/Digital_YA.png',
+            image: './assets/Digital_YA.png',
             description: 'Despite being white, the Bundrens\’s lack of financial resources due to their economic class negatively impacts nearly every aspect of their journey',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
