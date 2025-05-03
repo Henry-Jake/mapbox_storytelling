@@ -24,7 +24,7 @@ var config = {
             id: 'opening',
             alignment: 'centered',
             hidden: false,
-            title: 'A Tour of The South',
+            title: 'How Economic Status Shaped Mobility in The South',
             image: './assets/Economic_mobility.png',
             description: 'How economic status superseded race in terms of mobility in southern literature ',
             location: {
