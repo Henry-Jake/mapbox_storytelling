@@ -87,9 +87,9 @@ var config = {
             id: 'chapter-two',
             alignment: 'left',
             hidden: false,
-            title: 'Two',
-            image: './asset/',
-            description: 'Description of the Olinka people',
+            title: 'How economic status affected mobility ',
+            image: './asset/Digital_YA.png',
+            description: 'Despite being white, the Bundrens\’s lack of financial resources due to their economic class negatively impacts nearly every aspect of their journey',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
                 zoom: 8.00,
