@@ -68,8 +68,8 @@ var config = {
             id: 'chapter-one',
             alignment: 'right',
             hidden: false,
-            title: 'Someplace Georgia - One',
-            image: './assets/alice_walker_childhood_home.jpg',
+            title: ' <em> As I Lay Dying <en> By Willaim Faulkner',
+            image: './As_I_Lay_Dying_Cover.png',
             description: 'As I Lay Dying',
             location: {
                 center: [-83.5573651, 32.5573651], 
