@@ -111,7 +111,7 @@ var config = {
             description: 'Overall, for the Bundren family in lieu of being white, they are also poor, which significantly decreases their access to resources and mobility – more than race, poverty proves to be the obstacle that presents itself in every decision and every hardship they face. They delayed medical care for Addie until it was certain death, the forty-mile journey takes nine days because the family must go by wagon and mule (not car) when the bridge collapses due to flooding they feel the pressure of time and see no other option than to risk crossing the river and end up losing their mules (having to trade Jewel Horse for a new set),  Cash goes a week with a broken leg (only seeing a doctor once they get to Jefferson), Dewey Dell is unable to afford/is conned out of getting medicine for her pregnancy, the family does not have consistent housing through (mostly staying where people offer for free), and they send Darl away to a mental hospital (in lieu of caring for him – to keep the peace & avoid being sued).',
             location: {
                 center: [-89.52037515296645, 34.29918939666054], 
-                zoom: 12.5,
+                zoom: 13.5,
                 pitch: 60.0,
                 bearing: 0.00
             },
