@@ -68,9 +68,9 @@ var config = {
             id: 'chapter-one',
             alignment: 'right',
             hidden: false,
-            title: ' *As I Lay Dying* By Willaim Faulkner',
+            title: ' As I Lay Dying By Willaim Faulkner',
             image: './assets/As_I_Lay_Dying_Cover.png',
-            description: 'As I Lay Dying',
+            description:'As I Lay Dying',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
