@@ -150,7 +150,7 @@ var config = {
             location: {
                 center: [-86.81546509971066, 33.51225475117825], 
                 zoom: 5.5,
-                pitch: 45,
+                pitch: 30,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
