@@ -262,7 +262,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: 'Drawing Parallels & Conclusions',
-            image: './assets/',
+            image: '',
             description: 'Of the three novels, two take place in rural communities (Mississippi & Georgia / Tennessee) during the early to mid-1900s although one features a poor white family and the other features a pair of poor black sisters. Despite their race, the Bundren family in <em> As I Lay Dying </em> struggles significantly through their forty-mile journey over nine days due to their economic status – and are even looked down upon by other white people because of their status in Jefferson. Throughout the novel, their economic status does not change and therefore their mobility capabilities do not change. While on the contrary, Celie and Nettie in <em> The Color Purple </em> also face extreme hardship when they are impoverished but, they begin to become more mobile as they gain more capital (Celie with Shug Avery & starting her own business – and Nettie with her work with the church). Additionally, instead of being looked down upon by other members of their race – both women are uplifted by those of higher status instead of being put down. What this suggests then, is that poverty is the great equalizer regardless of race – both the impoverished white and black communities face similar problems and lack of mobility due to their severe lack of available resources and support.',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
@@ -281,8 +281,8 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: 'Drawing Parallels & Conclusions',
-            image: './assets/',
-            description: ' conclusion part 2',
+            image: '',
+            description: 'In time jumping to a rural community in Louisiana during 2005, we see the Batiste family in  <em> Salvage the Bones </em> squandering their inherited land (actively decreasing in economic resources as Claud can not work anymore & none of the children work). Between <em>The Color Purple </em> and <em> Salvage The Bones</em> we see the idea of those in the higher economic black community uplifting and helping each other out members of the lower class black community (Celie & Shug – Big Henry & the Batiste family). Between <em> As I Lay Dying </em> and <em> Salvage The Bones </em> we see the struggle to secure proper medical care (Cash & China) – although the Batiste family is able to get immediate help for Claud when hi\’s fingers are sliced off & they promise to take Esch to the doctor when they find out she is pregnant (compared to Dewey Dell who is conned out of seeking care). Where the Batiste differ from both the white and black communities of the 1900s is in their perennity stealing – throughout the novel Skeetah steals money from his father, Skeetah steals cow dewormer from a farm, Esch steals a pregnancy test, Randall & Esch go back the farm to try and steal food. The aspect of economics being a major contributing factor aside from race is prevented in all three rural communities across white and black communities and across a period of over fifty years. However, In resorting to stealing, while certain aspects of being poor have improved (like getting limited medical care), the overall conditions have gotten worse as well and the disparities between economic groups have widened - and therefore mobility disparity has also increased.',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
                 zoom: 8.00,
