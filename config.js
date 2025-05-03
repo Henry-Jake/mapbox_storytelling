@@ -88,7 +88,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Two',
-            image: './assets/firestone_farm.jpg',
+            image: './asset/',
             description: 'Description of the Olinka people',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
