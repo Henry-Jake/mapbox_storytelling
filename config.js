@@ -258,12 +258,31 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-seven',
-            alignment: 'right',
+            id: 'Paralell & conclusion',
+            alignment: 'center',
             hidden: false,
-            title: 'seven',
-            image: './assets/firestone_farm.jpg',
-            description: 'Description of the Olinka people',
+            title: 'Drawing Parallels & Conclusions',
+            image: './assets/',
+            description: 'Of the three novels, two take place in rural communities (Mississippi & Georgia / Tennessee) during the early to mid-1900s although one features a poor white family and the other features a pair of poor black sisters. Despite their race, the Bundren family in <em> As I Lay Dying </em> struggles significantly through their forty-mile journey over nine days due to their economic status – and are even looked down upon by other white people because of their status in Jefferson. Throughout the novel, their economic status does not change and therefore their mobility capabilities do not change. While on the contrary, Celie and Nettie in <em> The Color Purple </em> also face extreme hardship when they are impoverished but, they begin to become more mobile as they gain more capital (Celie with Shug Avery & starting her own business – and Nettie with her work with the church). Additionally, instead of being looked down upon by other members of their race – both women are uplifted by those of higher status instead of being put down. What this suggests then, is that poverty is the great equalizer regardless of race – both the impoverished white and black communities face similar problems and lack of mobility due to their severe lack of available resources and support.',
+            location: {
+                center: [-10.378889436404226, 6.251275915595865], 
+                zoom: 8.00,
+                pitch: 45.0,
+                bearing: 0.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'Paralell & conclusion',
+            alignment: 'center',
+            hidden: false,
+            title: 'Drawing Parallels & Conclusions',
+            image: './assets/',
+            description: ' conclusion part 2',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
                 zoom: 8.00,
