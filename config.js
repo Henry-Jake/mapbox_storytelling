@@ -126,7 +126,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'The Color Purple By Alice Walker',
-            image: './assets/The_Color_Purple_Cover.png',
+            image: './assets/The_color_Purple_cover.png',
             description: '<em>The Color Purple <em> by Alice Walker follows two sisters, Celie, and Nettie across the early 1900s -1950s. Both sisters are poor black women who get separated in early teenagerhood when Nettie becomes a missionary on the West Coast of Africa, while Celie remains in rural Georgia near Macon. The pair reunite at the end when the pair are both in their mid-forties. The novel is told in an epistolary format and follows the sisters through their lives and journeys across time and space of self-discovery, autonomy, and connection. Despite being an ocean apart, the sisters face many of the same trials and tribulations in navigating complex familial relationships as well as racism and sexism.',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
