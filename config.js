@@ -73,7 +73,7 @@ var config = {
             description:'<em> I Lay Dying </em> by William Faulkner takes place in rural Mississippi during the early 1920s in the fictional county of Yoknapatawpha. The Bundren family are poor white farmers who live on the outskirts of town and whose mother (Addie Bundren) is sick and who eventually dies. She is survived by her husband (Anse) and their children, Cash, Darl, Jewels, Dewy Dell, and Vardaman – ages. The main objective of the novel is to bury Addie Bundren in Jefferson. This journey proves extremely challenging due to the lack of resources the family possesses. The family struggles for approximately nine days to take her body some forty miles into the city. The novel explores topics like loss, grief, teen pregnancy, and poverty.',
             location: {
                 center: [-89.4921200006997, 34.281557946257514],
-                zoom: 13.5,
+                zoom: 12.5,
                 pitch: 60,
                 bearing: -43.2
             },
@@ -91,7 +91,7 @@ var config = {
             image: './assets/Digital_YA.png',
             description: 'Despite being white, the Bundrens\’s lack of financial resources due to their economic class negatively impacts nearly every aspect of their journey. Firstly, a doctor is not called for Addie until it is certainly too late because it is too expensive. After her death, the family embarks on their journey to Jefferson using a buggy and mules carrying Addie\’s corpse. Even though cars existed in this time (“we approach the crest, where the street runs, where cars go back and forth; the mules haul the wagon up and onto the crest and the street” ) (pg231). There is also a repeated sentiment of needing to make $3, so much so that Darl and Jewel are gone when their mother dies. Early into their journey, the family comes across a flooded and broken bridge, having neither the time nor resources to get across the river, the family wades through and ends up drowning the mules. Unable to afford new ones, the Anse sells Jewels\’s horse to pay for a new fleet (without telling him.) In this same altercation, Cash breaks his leg, and the family self-medicates him by fashioning a splint supported with cement to delay taking him to the doctor. Along their journey, the family does not have reliable housing and relies mostly upon the (idealized notion of southern hospitality) to stay in random people\’s barns – homes. Another layer of financial instability is Dewey Dell\’s inability to afford contraceptives for her pregnancy (only has $10). Toward the end of the novel, upon reaching Jefferson the family encounters two black men and a white man who all equally scuffle at the sight of the family and smell off the wagon. In burying their mother, they borrow the shovels, and Anse takes Dewey Dell\’s money to buy himself a new set of teeth. The family takes Cash to the same doctor they called for Addie who comments “Of course he\’d have to borrow a spade to bury his wife with. Unless he could borrow a hole in the ground,” (pg240) and who actually gives the family money to stay in a hotel for the night.',
             location: {
-                center: [-10.378889436404226, 6.251275915595865], 
+                center: [-89.4921200006997, 34.281557946257514], 
                 zoom: 8.00,
                 pitch: 45.0,
                 bearing: 0.00
