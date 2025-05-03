@@ -208,7 +208,7 @@ var config = {
             image: './assets/salvage_the_bones.png',
             description: ' <em> Salvage the Bones </em> by Jesmyn Ward explores the survival story of the Batiste family, a poor black family living in the fictional town of Bois Sauvage, Mississippi (based on the real town of De Lisle) during Hurricane Katrina in 2005. The family consists of the father, Claude, three sons, Randall & Skeetah, and junior, and daughter, Esch (The mother of the family is dead). The story follows the activity of the family beginning ten days before the hurricane, the day of the hurricane, and finally the day after. The novel covers complex concepts like teen pregnancy, family relations, loss, grief, and resilience.',
             location: {
-                center: [-10.378889436404226, 6.251275915595865], 
+                center: [-89.2678409578089,30.378878503582193], 
                 zoom: 8.00,
                 pitch: 45.0,
                 bearing: 0.00
@@ -227,7 +227,7 @@ var config = {
             image: '',
             description: 'The family lives on a large estate (approximately 15 acres inherited through the parents of the mother), despite this, they live in relative poverty as they only have a broken-down garbage truck and Claud’/s pickup truck for transportation, they often rely on a character named Big Henry to drive them to and from town (approximately 2 miles) as well as the nearby coastal town of St. Cathrine (approximately 6 miles away). Although Claud becomes aware of the danger of the hurricane on day one – and insists the family must prepare to shelter in place - the rest of the family ignores him. On day two Skeetah steals money from his father and with Big Henry goes to St. Cathrine where the grocery store is packed with people preparing for the storm and yet he only buys expensive dog food for his dog China, and Esch steals a pregnancy test. On day four after China gives birth to puppies she comes down with parvovirus and instead of taking her to the vet, Skeetah decides to steal cow de-wormer from an elderly white couple of farmers. While Randall is initially against this plan, he decides to go along with it as the puppies could be worth up to $800 which would pay for his basketball camp. Additionally, Esch reflects on the economic and racial divide of Bois Sauvage, saying “We rode up and out of the black Bois and into the white Bois”, she relates this to wondering if white children had to resort to stealing “I wonder if they have their own Skeethas and Esches crawling around the edges of their fields like ants under the floorboards marching in line toward sugar left open in the cabinet” (pg71). Through Esch\’s comments, it is revealed how the racial and economic divide between the white and black communities has grown larger – and how the family is keenly aware of their lack of agency within their community.',
             location: {
-                center: [-10.378889436404226, 6.251275915595865], 
+                center: [-89.2678409578089,30.378878503582193], 
                 zoom: 8.00,
                 pitch: 45.0,
                 bearing: 0.00
@@ -246,7 +246,7 @@ var config = {
             image: '',
             description: 'On day nine, the family hears on the radio that Hurricane Katrina is a CAT 3 and begins to take it seriously – although it is too late to leave, and besides they have nowhere else to go and no way of leaving as Claud\’s truck does not fit them all. Skeetah again steals money from his father, and he goes with Big Henry back to St. Cathrine but does not bring back enough food and the family must harvest eggs from chickens on the property. Also, during storm preparation, the family collects rainwater in jugs and frequently breaks down the decaying house of their grandparent’/s for boards to cover up the windows of their house. On the tenth day, Randall and Esch go back to the elderly couple’/s farm to try and steal food from them but find the place abandoned as they likely evacuated.Despite taking place in 2005, poverty more than race, affects the Batiste household in their mobility. Their lack of transportation means their friend must drive them around, they resort to stealing on multiple occasions, the old radio in the pickup and TV distorts news of the impending hurricane delay and impede their knowledge of the Katrina\’s location, and they do not possess the means nor destination if they had chosen to leave earlier.',
             location: {
-                center: [-10.378889436404226, 6.251275915595865], 
+                center: [-89.26527826977892, 30.350667428018934], 
                 zoom: 8.00,
                 pitch: 45.0,
                 bearing: 0.00
@@ -284,13 +284,13 @@ var config = {
             image: '',
             description: 'In time jumping to a rural community in Louisiana during 2005, we see the Batiste family in  <em> Salvage the Bones </em> squandering their inherited land (actively decreasing in economic resources as Claud can not work anymore & none of the children work). Between <em>The Color Purple </em> and <em> Salvage The Bones</em> we see the idea of those in the higher economic black community uplifting and helping each other out members of the lower class black community (Celie & Shug – Big Henry & the Batiste family). Between <em> As I Lay Dying </em> and <em> Salvage The Bones </em> we see the struggle to secure proper medical care (Cash & China) – although the Batiste family is able to get immediate help for Claud when hi\’s fingers are sliced off & they promise to take Esch to the doctor when they find out she is pregnant (compared to Dewey Dell who is conned out of seeking care). Where the Batiste differ from both the white and black communities of the 1900s is in their perennity stealing – throughout the novel Skeetah steals money from his father, Skeetah steals cow dewormer from a farm, Esch steals a pregnancy test, Randall & Esch go back the farm to try and steal food. The aspect of economics being a major contributing factor aside from race is prevented in all three rural communities across white and black communities and across a period of over fifty years. However, In resorting to stealing, while certain aspects of being poor have improved (like getting limited medical care), the overall conditions have gotten worse as well and the disparities between economic groups have widened - and therefore mobility disparity has also increased.',
             location: {
-                center: [-10.378889436404226, 6.251275915595865], 
-                zoom: 8.00,
-                pitch: 45.0,
+                center: [-90.3150946, 38.6605671], 
+                zoom: 4.00,
+                pitch: 60.0,
                 bearing: 0.00
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: false,
+            rotateAnimation: true,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
@@ -303,9 +303,9 @@ var config = {
             image: '',
             description: 'The database proves to be a powerful tool to map major movements and economic exchange throughout a text, using it we create a real-world visual representation of words onto paper – this allows us to inspect elements of text through a non-traditional Lens in seeing trends rather than analyzing words to find trends. Through the database, we can see a correlation in novels between economic status and mobility. Where a character gaining economic status or is already in a higher state has more purchasing power, access to resources, and mobility. However, major limitations of the database are seen as there is no information attached to the data points other than movement occurred or an economic exchange took place. Additionally, there are no lines connecting where the movement occurred from or to (nor is there an indication of who or how they moved – nor who bought what or how). You have to have read the novel for the database to make sense especially (you have the have an idea of what dot represents what plot point). Something to fix this, although a lot of extra work would be to implement text boxes like in Digital Yoknapatawpha that give context and page numbers to the data point.',
             location: {
-                center: [-41.47212410646295, 34.781162343274076], 
-                zoom: 3,
-                pitch: 30,
+                center: [-90.3150946, 38.6605671], 
+                zoom: 4,
+                pitch: 60,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
