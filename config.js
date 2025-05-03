@@ -56,7 +56,7 @@ var config = {
             hidden: false,
             title: 'Thesis: Economic Class Variablility & Mobility',
             image: '',
-            description: 'When you ask a random person on the street what they think of when you say Southern Literature, most will say it is about white guys from the past writing about slavery and the Civil War, with lots of racism and sexism. Suppose you ask them if, during this period which had greater mobility between White and African Americans, most would tell you that White people had more mobility. What I am proposing in this essay is that race is only one factor to consider in terms of mobility. We can also look at how economic class affected how mobile people are in Southern Literature. Perhaps to the same degree or more as race. Through three novels that span from the 1900s to the 2100th, I will explore how economic class is equally important, if not more important than race when discussing the mobility and agency of characters in Southern Literature.   ',
+            description: 'When you ask a random person on the street what they think of when you say Southern Literature, most will say it is about white guys from the past writing about slavery and the Civil War, with lots of racism and sexism. Suppose you ask them if, during this period which had greater mobility between White and African Americans, most would tell you that White people had more mobility. What I am proposing in this essay is that race is only one factor to consider in terms of mobility. We can also look at how economic class affected how mobile people are in Southern Literature. Perhaps to the same degree or more as race. Through three novels that span from the 1900s to the 2100th, I will explore how economic class is equally important, if not more important than race when discussing the mobility and agency of characters in Southern Literature.',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
@@ -68,20 +68,14 @@ var config = {
             id: 'chapter-one',
             alignment: 'right',
             hidden: false,
-            title: ' As I Lay Dying By Willaim Faulkner',
+            title: 'As I Lay Dying By Willaim Faulkner',
             image: './assets/As_I_Lay_Dying_Cover.png',
             description:'As I Lay Dying',
             location: {
-                center: [-83.5573651, 32.5573651], 
+                center: [-83.5573651, 32.5573651],
                 zoom: 6.5,
                 pitch: 60,
-                bearing: -43.2,
-                // flyTo additional controls-
-                // These options control the flight curve, making it move
-                // slowly and zoom out almost completely before starting
-                // to pan.
-                //speed: 2, // make the flying slow
-                //curve: 1, // change the speed at which it zooms out
+                bearing: -43.2
             },
             mapAnimation: 'flyTo',
             rotateAnimation: true,
