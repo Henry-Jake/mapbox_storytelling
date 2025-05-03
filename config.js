@@ -178,8 +178,8 @@ var config = {
             image: './assets/christian_nigeria.png',
             description: 'On the other hand, after Nettie is kicked out, she and Celie\’s children (Olivia and Adam) make their way to New York where they are taken in by a couple of missionaries and spend much of their life living with a native tribe (The Olinka) in West Africa. However, before settling in West Africa for a time, she travels to places like London and Southampton in England, as well as Lisbon in Portugal, Dakar in Senegal, and Monrovia in Liberia. While she is able to travel to these locations with the help of the church, she is unsuccessful in her mission of helping the Olinka people re-locate as their land and homes get taken over and repurposed into rubber plantations. When church funds begin to run out, she is unsuccessful in convincing the church to help any further and is forced to dip into her own pocket to try and aid the Olinka. She returns to Georgia after this failure as she begins receiving letters from Celie and wants to reconnect with her sister and have her children meet their birth mother. ',
             location: {
-                center: [-89.2678409578089,30.378878503582193], 
-                zoom: 5,
+                center: [-15.57964067922607, 27.957396272978634], 
+                zoom: 6,
                 pitch: 60,
                 bearing: 0
             },
@@ -247,8 +247,8 @@ var config = {
             description: 'On day nine, the family hears on the radio that Hurricane Katrina is a CAT 3 and begins to take it seriously – although it is too late to leave, and besides they have nowhere else to go and no way of leaving as Claud\’s truck does not fit them all. Skeetah again steals money from his father, and he goes with Big Henry back to St. Cathrine but does not bring back enough food and the family must harvest eggs from chickens on the property. Also, during storm preparation, the family collects rainwater in jugs and frequently breaks down the decaying house of their grandparent’/s for boards to cover up the windows of their house. On the tenth day, Randall and Esch go back to the elderly couple’/s farm to try and steal food from them but find the place abandoned as they likely evacuated.Despite taking place in 2005, poverty more than race, affects the Batiste household in their mobility. Their lack of transportation means their friend must drive them around, they resort to stealing on multiple occasions, the old radio in the pickup and TV distorts news of the impending hurricane delay and impede their knowledge of the Katrina\’s location, and they do not possess the means nor destination if they had chosen to leave earlier.',
             location: {
                 center: [-89.26527826977892, 30.350667428018934], 
-                zoom: 12.5.00,
-                pitch: 60.0,
+                zoom: 11.00,
+                pitch: 45.0,
                 bearing: 0.00
             },
             mapAnimation: 'flyTo',
