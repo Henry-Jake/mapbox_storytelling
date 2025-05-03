@@ -65,7 +65,7 @@ var config = {
             },
         },
         {
-            id: 'chapter-one',
+            id: 'As I Lay Dying - intro',
             alignment: 'right',
             hidden: false,
             title: 'As I Lay Dying By Willaim Faulkner',
@@ -84,7 +84,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-two',
+            id: 'As I Lay Dying - Mobility',
             alignment: 'left',
             hidden: false,
             title: 'How economic status affected mobility ',
@@ -103,7 +103,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-two-end',
+            id: 'As I Lay Dying -Mibility 2',
             alignment: 'left',
             hidden: false,
             title: 'How economic status affected mobility ',
@@ -122,7 +122,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-three',
+            id: 'The Color Purple - Intro',
             alignment: 'right',
             hidden: false,
             title: 'The Color Purple By Alice Walker',
@@ -141,12 +141,42 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'Chapter-Harrisonburg',
+            id: 'The Color Purple - Mobility',
             alignment: 'left',
             hidden: false,
-            title: 'How economic status affected mobility',
+            title: 'How economic status affected mobility - Celie',
             image: '',
             description: 'From the very beginning of the Novel Celie is trapped in her loveless marriage to her husband (Albert “Mister”), in childhood she lacks the foundational schooling to fully comprehend the inequality of the situation – as she got pregnant by her stepfather (Alphonso) and pulled out of school to be married to Albert. The pair as well as Mister\’s son, Harpo live on a former plantation owned by Mister\’s father as farmers. Mister and Harpo primarily get around using horse and wagon. Celie does not possess the financial means or literacy to escape such conditions and thus writes to God to vent and escape her life. The arrival of Shug Avery, a wealthy singer from Memphis changes all this when she comes to town and begins to teach Celie about herself, love, and independence. Because of Shug\’s profession and economic status, she can travel the country in a car with relative ease. In meeting Shug, Celie begins to learn self-autonomy and gains the knowledge and courage to leave her marriage to go with Shug to Memphis. However, before leaving a notable altercation of perception occurs between Albert and Celie, Alber calls her “You black, you pore, you a woman. Goddam, he say, you nothing at all” while Celie snaps back “I\’m pore, I\’m black, I may be ugly and can\’t cook… but I\’m here” (pg206). Through this altercation, we see how Albert sees Celie firstly for her race – while Celie sees herself firstly for her economic status. Through the eyes of Albert, the main primary factor holding Celie back is her race – while Celie views the driving factor of her immobility and stagnating life as her economic status. With the help of Shug, Celie starts a pant sewing business – where she finds success and can move between Memphis and her hometown with relative ease and frequency. Toward the end of the novel, Celie inherits Alphonso’s house after his passing and moves back home having found herself through economic advancement and self-discovery. ',
+            location: {
+                center: [-78.8727234890205,38.438444501085634 ], 
+                zoom: 7,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
+        {
+            id: 'The Color Purple - Mobility',
+            alignment: 'left',
+            hidden: false,
+            title: 'How economic status affected mobility - Nettie',
+            image: './assets/christian_nigerian.png',
+            description: 'On the other hand, after Nettie is kicked out, she and Celie\’s children (Olivia and Adam) make their way to New York where they are taken in by a couple of missionaries and spend much of their life living with a native tribe (The Olinka) in West Africa. However, before settling in West Africa for a time, she travels to places like London and Southampton in England, as well as Lisbon in Portugal, Dakar in Senegal, and Monrovia in Liberia. While she is able to travel to these locations with the help of the church, she is unsuccessful in her mission of helping the Olinka people re-locate as their land and homes get taken over and repurposed into rubber plantations. When church funds begin to run out, she is unsuccessful in convincing the church to help any further and is forced to dip into her own pocket to try and aid the Olinka. She returns to Georgia after this failure as she begins receiving letters from Celie and wants to reconnect with her sister and have her children meet their birth mother. ',
             location: {
                 center: [-78.8727234890205,38.438444501085634 ], 
                 zoom: 7,
