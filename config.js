@@ -54,7 +54,7 @@ var config = {
             id: 'Thesis',
             alignment: 'centered',
             hidden: false,
-            title: '',
+            title: 'Thesis: Economic Class Variablility & Mobility',
             image: '',
             description: 'When you ask a random person on the street what they think of when you say Southern Literature, most will say it is about white guys from the past writing about slavery and the Civil War, with lots of racism and sexism. Suppose you ask them if, during this period which had greater mobility between White and African Americans, most would tell you that White people had more mobility. What I am proposing in this essay is that race is only one factor to consider in terms of mobility. We can also look at how economic class affected how mobile people are in Southern Literature. Perhaps to the same degree or more as race. Through three novels that span from the 1900s to the 2100th, I will explore how economic class is equally important, if not more important than race when discussing the mobility and agency of characters in Southern Literature.   ',
             location: {
