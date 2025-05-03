@@ -220,12 +220,31 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-six',
+            id: 'Salvage the bones - Mobility - one',
             alignment: 'left',
             hidden: false,
-            title: 'Six',
-            image: './assets/firestone_farm.jpg',
-            description: 'Description of the Olinka people',
+            title: 'How economic status affected mobility',
+            image: '',
+            description: 'The family lives on a large estate (approximately 15 acres inherited through the parents of the mother), despite this, they live in relative poverty as they only have a broken-down garbage truck and Claud’/s pickup truck for transportation, they often rely on a character named Big Henry to drive them to and from town (approximately 2 miles) as well as the nearby coastal town of St. Cathrine (approximately 6 miles away). Although Claud becomes aware of the danger of the hurricane on day one – and insists the family must prepare to shelter in place - the rest of the family ignores him. On day two Skeetah steals money from his father and with Big Henry goes to St. Cathrine where the grocery store is packed with people preparing for the storm and yet he only buys expensive dog food for his dog China, and Esch steals a pregnancy test. On day four after China gives birth to puppies she comes down with parvovirus and instead of taking her to the vet, Skeetah decides to steal cow de-wormer from an elderly white couple of farmers. While Randall is initially against this plan, he decides to go along with it as the puppies could be worth up to $800 which would pay for his basketball camp. Additionally, Esch reflects on the economic and racial divide of Bois Sauvage, saying “We rode up and out of the black Bois and into the white Bois”, she relates this to wondering if white children had to resort to stealing “I wonder if they have their own Skeethas and Esches crawling around the edges of their fields like ants under the floorboards marching in line toward sugar left open in the cabinet” (pg71). Through Esch\’s comments, it is revealed how the racial and economic divide between the white and black communities has grown larger – and how the family is keenly aware of their lack of agency within their community.',
+            location: {
+                center: [-10.378889436404226, 6.251275915595865], 
+                zoom: 8.00,
+                pitch: 45.0,
+                bearing: 0.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'Salvage the bones - Mobility - two',
+            alignment: 'left',
+            hidden: false,
+            title: 'How economic status affected mobility',
+            image: '',
+            description: 'On day nine, the family hears on the radio that Hurricane Katrina is a CAT 3 and begins to take it seriously – although it is too late to leave, and besides they have nowhere else to go and no way of leaving as Claud\’s truck does not fit them all. Skeetah again steals money from his father, and he goes with Big Henry back to St. Cathrine but does not bring back enough food and the family must harvest eggs from chickens on the property. Also, during storm preparation, the family collects rainwater in jugs and frequently breaks down the decaying house of their grandparent’/s for boards to cover up the windows of their house. On the tenth day, Randall and Esch go back to the elderly couple’/s farm to try and steal food from them but find the place abandoned as they likely evacuated.Despite taking place in 2005, poverty more than race, affects the Batiste household in their mobility. Their lack of transportation means their friend must drive them around, they resort to stealing on multiple occasions, the old radio in the pickup and TV distorts news of the impending hurricane delay and impede their knowledge of the Katrina\’s location, and they do not possess the means nor destination if they had chosen to leave earlier.',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
                 zoom: 8.00,
