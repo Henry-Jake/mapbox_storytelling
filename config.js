@@ -73,7 +73,7 @@ var config = {
             description:'<em> I Lay Dying </em> by William Faulkner takes place in rural Mississippi during the early 1920s in the fictional county of Yoknapatawpha. The Bundren family are poor white farmers who live on the outskirts of town and whose mother (Addie Bundren) is sick and who eventually dies. She is survived by her husband (Anse) and their children, Cash, Darl, Jewels, Dewy Dell, and Vardaman – ages. The main objective of the novel is to bury Addie Bundren in Jefferson. This journey proves extremely challenging due to the lack of resources the family possesses. The family struggles for approximately nine days to take her body some forty miles into the city. The novel explores topics like loss, grief, teen pregnancy, and poverty.',
             location: {
                 center: [-89.45902154906975,34.29004138442646],
-                zoom: 12,
+                zoom: 15,
                 pitch: 60,
                 bearing: -43.2
             },
