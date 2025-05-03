@@ -26,7 +26,7 @@ var config = {
             hidden: false,
             title: 'How Economic Status Shaped Mobility in The South',
             image: './assets/Economic_mobility.png',
-            description: 'How economic status superseded race in terms of mobility in southern literature ',
+            description: 'How economic status superseded race in terms of mobility in southern literature <br> ',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
@@ -49,6 +49,20 @@ var config = {
                 //     opacity: 0
                 // }
             ]
+        },
+        {
+            id: 'Thesis',
+            alignment: 'centered',
+            hidden: false,
+            title: '',
+            image: '',
+            description: 'something something  ',
+            location: {
+                center: [-90.3150946, 38.6605671],
+                zoom: 4,
+                pitch: 60,
+                bearing: 0
+            },
         },
         {
             id: 'chapter-one',
