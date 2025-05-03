@@ -296,31 +296,12 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-eight',
-            alignment: 'left',
-            hidden: false,
-            title: 'Eight',
-            image: './assets/firestone_farm.jpg',
-            description: 'Description of the Olinka people',
-            location: {
-                center: [-10.378889436404226, 6.251275915595865], 
-                zoom: 8.00,
-                pitch: 45.0,
-                bearing: 0.00
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
             id: 'Conclusion',
             alignment: 'center',
             hidden: false,
-            title: 'Conclusion',
-            image: './assets/color_purple_field.jpg',
-            description: 'Close of the novel.',
+            title: 'Power and Limitations of the Database',
+            image: '',
+            description: 'The database proves to be a powerful tool to map major movements and economic exchange throughout a text, using it we create a real-world visual representation of words onto paper – this allows us to inspect elements of text through a non-traditional Lens in seeing trends rather than analyzing words to find trends. Through the database, we can see a correlation in novels between economic status and mobility. Where a character gaining economic status or is already in a higher state has more purchasing power, access to resources, and mobility. However, major limitations of the database are seen as there is no information attached to the data points other than movement occurred or an economic exchange took place. Additionally, there are no lines connecting where the movement occurred from or to (nor is there an indication of who or how they moved – nor who bought what or how). You have to have read the novel for the database to make sense especially (you have the have an idea of what dot represents what plot point). Something to fix this, although a lot of extra work would be to implement text boxes like in Digital Yoknapatawpha that give context and page numbers to the data point.',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
                 zoom: 3,
