@@ -111,7 +111,7 @@ var config = {
             description: 'Overall, for the Bundren family in lieu of being white, they are also poor, which significantly decreases their access to resources and mobility – more than race, poverty proves to be the obstacle that presents itself in every decision and every hardship they face. They delayed medical care for Addie until it was certain death, the forty-mile journey takes nine days because the family must go by wagon and mule (not car) when the bridge collapses due to flooding they feel the pressure of time and see no other option than to risk crossing the river and end up losing their mules (having to trade Jewel Horse for a new set),  Cash goes a week with a broken leg (only seeing a doctor once they get to Jefferson), Dewey Dell is unable to afford/is conned out of getting medicine for her pregnancy, the family does not have consistent housing through (mostly staying where people offer for free), and they send Darl away to a mental hospital (in lieu of caring for him – to keep the peace & avoid being sued).',
             location: {
                 center: [-89.52037515296645, 34.29918939666054], 
-                zoom: 11,
+                zoom: 11.5,
                 pitch: 14.0,
                 bearing: 0.00
             },
@@ -209,7 +209,7 @@ var config = {
             description: ' <em> Salvage the Bones </em> by Jesmyn Ward explores the survival story of the Batiste family, a poor black family living in the fictional town of Bois Sauvage, Mississippi (based on the real town of De Lisle) during Hurricane Katrina in 2005. The family consists of the father, Claude, three sons, Randall & Skeetah, and junior, and daughter, Esch (The mother of the family is dead). The story follows the activity of the family beginning ten days before the hurricane, the day of the hurricane, and finally the day after. The novel covers complex concepts like teen pregnancy, family relations, loss, grief, and resilience.',
             location: {
                 center: [-89.2678409578089,30.378878503582193], 
-                zoom: 11.00,
+                zoom: 12.00,
                 pitch: 45.0,
                 bearing: 0.00
             },
@@ -247,8 +247,8 @@ var config = {
             description: 'On day nine, the family hears on the radio that Hurricane Katrina is a CAT 3 and begins to take it seriously – although it is too late to leave, and besides they have nowhere else to go and no way of leaving as Claud\’s truck does not fit them all. Skeetah again steals money from his father, and he goes with Big Henry back to St. Cathrine but does not bring back enough food and the family must harvest eggs from chickens on the property. Also, during storm preparation, the family collects rainwater in jugs and frequently breaks down the decaying house of their grandparent’/s for boards to cover up the windows of their house. On the tenth day, Randall and Esch go back to the elderly couple’/s farm to try and steal food from them but find the place abandoned as they likely evacuated.Despite taking place in 2005, poverty more than race, affects the Batiste household in their mobility. Their lack of transportation means their friend must drive them around, they resort to stealing on multiple occasions, the old radio in the pickup and TV distorts news of the impending hurricane delay and impede their knowledge of the Katrina\’s location, and they do not possess the means nor destination if they had chosen to leave earlier.',
             location: {
                 center: [-89.26527826977892, 30.350667428018934], 
-                zoom: 11.00,
-                pitch: 45.0,
+                zoom: 11.5,
+                pitch: 30.0,
                 bearing: 0.00
             },
             mapAnimation: 'flyTo',
