@@ -201,7 +201,7 @@ var config = {
             ]
         },
         {
-            id: 'The Color Purple - Mobility',
+            id: 'The Color Purple - Africa',
             alignment: 'left',
             hidden: false,
             title: 'How economic status affected mobility - Nettie',
