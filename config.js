@@ -16,7 +16,7 @@ var config = {
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
     title: 'ENG355 Final Essay',
-    subtitle: 'Spatial Journeys of Movement Across the South in Southern Literature',
+    subtitle: 'Spatial Journeys of How Economic Status Affected Movement Across the South in Southern Literature',
     byline: 'Jacob Henry',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
@@ -26,7 +26,7 @@ var config = {
             hidden: false,
             title: 'How Economic Status Shaped Mobility in The South',
             image: './assets/Economic_mobility.png',
-            description: 'How economic status superseded race in terms of mobility in southern literature <br> ',
+            description: 'How economic status affected mobility in southern literature <br> ',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4.5,
@@ -147,6 +147,36 @@ var config = {
             title: 'How economic status affected mobility - Celie',
             image: '',
             description: 'From the very beginning of the Novel Celie is trapped in her loveless marriage to her husband (Albert “Mister”), in childhood she lacks the foundational schooling to fully comprehend the inequality of the situation – as she got pregnant by her stepfather (Alphonso) and pulled out of school to be married to Albert. The pair as well as Mister\’s son, Harpo live on a former plantation owned by Mister\’s father as farmers. Mister and Harpo primarily get around using horse and wagon. Celie does not possess the financial means or literacy to escape such conditions and thus writes to God to vent and escape her life. The arrival of Shug Avery, a wealthy singer from Memphis changes all this when she comes to town and begins to teach Celie about herself, love, and independence. Because of Shug\’s profession and economic status, she can travel the country in a car with relative ease. In meeting Shug, Celie begins to learn self-autonomy and gains the knowledge and courage to leave her marriage to go with Shug to Memphis. However, before leaving a notable altercation of perception occurs between Albert and Celie, Alber calls her “You black, you pore, you a woman. Goddam, he say, you nothing at all” while Celie snaps back “I\’m pore, I\’m black, I may be ugly and can\’t cook… but I\’m here” (pg206). Through this altercation, we see how Albert sees Celie firstly for her race – while Celie sees herself firstly for her economic status. Through the eyes of Albert, the main primary factor holding Celie back is her race – while Celie views the driving factor of her immobility and stagnating life as her economic status. With the help of Shug, Celie starts a pant sewing business – where she finds success and can move between Memphis and her hometown with relative ease and frequency. Toward the end of the novel, Celie inherits Alphonso’s house after his passing and moves back home having found herself through economic advancement and self-discovery. ',
+            location: {
+                center: [-86.81546509971066, 33.51225475117825], 
+                zoom: 5.5,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
+        {
+            id: 'The Color Purple - Mobility',
+            alignment: 'left',
+            hidden: false,
+            title: 'How economic status affected mobility - Celie Part Two',
+            image: '',
+            description: 'However, before leaving a notable altercation of perception occurs between Albert and Celie, Alber calls her “You black, you pore, you a woman. Goddam, he say, you nothing at all” while Celie snaps back “I\’m pore, I\’m black, I may be ugly and can\’t cook… but I\’m here” (pg206). Through this altercation, we see how Albert sees Celie firstly for her race – while Celie sees herself firstly for her economic status. Through the eyes of Albert, the main primary factor holding Celie back is her race – while Celie views the driving factor of her immobility and stagnating life as her economic status. With the help of Shug, Celie starts a pant sewing business – where she finds success and can move between Memphis and her hometown with relative ease and frequency. Toward the end of the novel, Celie inherits Alphonso’s house after his passing and moves back home having found herself through economic advancement and self-discovery. ',
             location: {
                 center: [-86.81546509971066, 33.51225475117825], 
                 zoom: 5.5,
