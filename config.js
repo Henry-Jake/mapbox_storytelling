@@ -208,7 +208,7 @@ var config = {
             image: './assets/christian_nigeria.png',
             description: 'On the other hand, after Nettie is kicked out, she and Celie\’s children (Olivia and Adam) make their way to New York where they are taken in by a couple of missionaries and spend much of their life living with a native tribe (The Olinka) in West Africa. However, before settling in West Africa for a time, she travels to places like London and Southampton in England, as well as Lisbon in Portugal, Dakar in Senegal, and Monrovia in Liberia. While she is able to travel to these locations with the help of the church, she is unsuccessful in her mission of helping the Olinka people re-locate as their land and homes get taken over and repurposed into rubber plantations. When church funds begin to run out, she is unsuccessful in convincing the church to help any further and is forced to dip into her own pocket to try and aid the Olinka. She returns to Georgia after this failure as she begins receiving letters from Celie and wants to reconnect with her sister and have her children meet their birth mother. ',
             location: {
-                center: [-52.818194126389386, 33.784648047948], 
+                center: [52.818194126389386, -33.784648047948], 
                 zoom: 4.5,
                 pitch: 60,
                 bearing: 0
