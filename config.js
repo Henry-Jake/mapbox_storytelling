@@ -239,7 +239,7 @@ var config = {
             description: ' <em> Salvage the Bones </em> by Jesmyn Ward explores the survival story of the Batiste family, a poor black family living in the fictional town of Bois Sauvage, Mississippi (based on the real town of De Lisle) during Hurricane Katrina in 2005. The family consists of the father, Claude, three sons, Randall & Skeetah, and junior, and daughter, Esch (The mother of the family is dead). The story follows the activity of the family beginning ten days before the hurricane, the day of the hurricane, and finally the day after. The novel covers complex concepts like teen pregnancy, family relations, loss, grief, and resilience.',
             location: {
                 center: [-89.2678409578089,30.378878503582193], 
-                zoom: 12.00,
+                zoom: 12.50,
                 pitch: 45.0,
                 bearing: 0.00
             },
