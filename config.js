@@ -179,8 +179,8 @@ var config = {
             description: 'However, before leaving a notable altercation of perception occurs between Albert and Celie, Alber calls her “You black, you pore, you a woman. Goddam, he say, you nothing at all” while Celie snaps back “I\’m pore, I\’m black, I may be ugly and can\’t cook… but I\’m here” (pg206). Through this altercation, we see how Albert sees Celie firstly for her race – while Celie sees herself firstly for her economic status. Through the eyes of Albert, the main primary factor holding Celie back is her race – while Celie views the driving factor of her immobility and stagnating life as her economic status. With the help of Shug, Celie starts a pant sewing business – where she finds success and can move between Memphis and her hometown with relative ease and frequency. Toward the end of the novel, Celie inherits Alphonso’s house after his passing and moves back home having found herself through economic advancement and self-discovery. ',
             location: {
                 center: [-86.81546509971066, 33.51225475117825], 
-                zoom: 5.5,
-                pitch: 30,
+                zoom: 5.0,
+                pitch: 60,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
